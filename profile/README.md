@@ -1,4 +1,4 @@
-# CASMarineXI Software Development Team
+# CASMarine Software Development Team
 
 LinkedIn: https://tr.linkedin.com/company/casmarine
 
